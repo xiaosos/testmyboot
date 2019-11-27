@@ -9,7 +9,7 @@ public class OpenPort {
 
     @RequestMapping("/test")
     public String test(){
-        return "xiaosos,testmyboot,11111";
+        return "xiaosos,testmyboot,11111----2222";
     }
 
 }
